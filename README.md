@@ -1,7 +1,6 @@
 ## Hello there, I'm Eileen Chen 🌸
 
 ---
-**eileenc1357/eileenc1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a computer science student at Georgia Tech, where I blend my love for problem-solving with an interest in creating thoughtful technology. Whether it's designing intuitive web interfaces, building scalable back-end systems, or experimenting with AI, I strive to craft impactful solutions.
 
